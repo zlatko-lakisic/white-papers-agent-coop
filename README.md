@@ -8,6 +8,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Version](https://img.shields.io/badge/version-0.2-blue)
+![Pages](https://img.shields.io/badge/pages-23-lightgrey)
 
 ### 📄 [Download the white paper (PDF)](AGENT-COOP_WhitePaper_v0.2.pdf)
 
@@ -44,7 +45,7 @@ This paper does not claim the design is proven. There is one user, on one projec
 | **Appendix A** | Protocol summary for builders |
 | **Appendix B** | License and citation |
 
-8 figures.
+23 pages, 8 figures.
 
 ---
 
